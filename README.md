@@ -7,6 +7,6 @@
 # Instructions 
 (from Medical-clinic-project directory)
 - run GUI, "python3 -m clinic gui"
-    > Username: user
-    > Password: 123456
+    - Username: user
+    - Password: 123456
 - run integration tests, "python3 -m unittest -v ./tests/integration_tests.py"

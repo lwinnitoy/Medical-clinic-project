@@ -42,7 +42,7 @@ class PatientDAOJSON(PatientDAO):
 
         #updates the patient's information
         old_p.name = patient.name
-        old_p.birthdate = patient.birthdate
+        old_p.birth_date = patient.birth_date
         old_p.phone = patient.phone
         old_p.email = patient.email
         old_p.address = patient.address
